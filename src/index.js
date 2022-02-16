@@ -32,7 +32,7 @@ module.exports = function(context) {
     name: "docusaurus-plugin-umami",
 
     injectHtmlTags() {
-
+      console.log("Nayan Patel - Plugin umami adding...");
       return {
         headTags: [
           {
