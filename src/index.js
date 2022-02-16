@@ -37,9 +37,12 @@ module.exports = function(context) {
         headTags: [
           {
             tagName:  "script",
-            innerHTML: `
-            <script async defer data-website-id="${websiteid}" src="${src}"></script>
-            `
+            attributes: {
+              async: true,
+              defer: true,
+              'data-website-id': websiteid,
+              src: src,
+            },
           }
         ]
       };

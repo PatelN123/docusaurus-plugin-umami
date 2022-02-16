@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-plugin-umami",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "Umami plugin for docusaurus",
   "main": "src/index.js",
   "private": false,
