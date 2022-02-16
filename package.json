@@ -1,0 +1,23 @@
+{
+  "name": "docusaurus-plugin-umami",
+  "version": "1.0.0",
+  "description": "Umami plugin for docusaurus",
+  "main": "src/index.js",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=10.15.1"
+  },
+  "keywords": [
+    "docusaurus",
+    "umami"
+  ],
+  "author": "Nayan Patel",
+  "license": "MIT"
+}
