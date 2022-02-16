@@ -1,6 +1,6 @@
 ### docusaurus-plugin-umami
 
-This plugin enables you to use umami analytics on a docusaurus site
+This plugin enables you to use umami analytics on a docusaurus site!
 
 #### Install the plugin
 
